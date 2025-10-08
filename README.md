@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Agnetyrist/Agnetyrist/banner.png" alt="banner" width="100%">
+  <img src="https://github.com/Agnetyrist/Agnetyrist/blob/main/banner.png" alt="banner" width="100%">
 </p>
 
 <!-- Title -->

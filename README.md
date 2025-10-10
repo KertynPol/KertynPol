@@ -362,13 +362,6 @@ Growth-oriented | Detail-driven | Always learning
 
 ---
 
-## 🏆 Достижения
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Agnetyrist&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
 
 ---
 

@@ -1,15 +1,13 @@
-<p align="center">
-  <img src="https://github.com/0xHaskar/0xHaskar/raw/main/banner.gif" alt="banner" width="100%">
-</p>
 
-# 👋 Hi, I’m Agnetyrist
-<p align="center">
-  <b>Software Developer | Game Systems | Automation | High-Performance Apps</b>
-</p>
+<div align="center">
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AGNETYRIST&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20Linux%20SysAdmin%20|%20Game%20Developer&descAlignY=55&descSize=20)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AskenLyte&color=blue" alt="Profile Views" />
-</p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Developer+%7C+System+Administrator;Linux+Expert+%7C+Minecraft+Server+Specialist;Game+Engines+%7C+Automation+%7C+High-Performance+Apps)](https://git.io/typing-svg)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Agnetyrist&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
 
 ---
 

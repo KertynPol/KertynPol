@@ -363,17 +363,6 @@ Growth-oriented | Detail-driven | Always learning
 ---
 
 
----
-
-## 🌐 Связаться со мной
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-Agnetyrist-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Agnetyrist)
-[![Telegram](https://img.shields.io/badge/Telegram-@Depresiked-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Depresiked)
-[![Email](https://img.shields.io/badge/Email-umbraseeker@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umbraseeker@gmail.com)
-
-</div>
 
 ---
 

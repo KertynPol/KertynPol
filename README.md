@@ -1,224 +1,145 @@
 <div align="center">
-  
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=KERTYNPOL&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20Linux%20SysAdmin%20|%20Game%20Developer&descAlignY=55&descSize=20)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Developer+%7C+System+Administrator;Linux+Expert+%7C+Minecraft+Server+Specialist;Game+Engines+%7C+Automation+%7C+High-Performance+Apps)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,40:1a0533,70:2d1b69,100:0d0d2b&height=280&section=header&text=KERTYNPOL&fontSize=85&fontColor=bf80ff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20·%20SysAdmin%20·%20Game%20Dev&descSize=18&descAlignY=65&descFontColor=7c6bff&stroke=7c6bff&strokeWidth=1)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Agnetyrist&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-  
 <br/>
 
-  <img src="https://img.shields.io/badge/🎯_Age-18_Years-00d4ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🌍_Location-Earth-00d4ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/☕_Coffee_Lover-Since_2018-ff00ea?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00ff00?style=for-the-badge&labelColor=0d1117" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Agnetyrist&color=00d4ff&style=for-the-badge&label=👁️+PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Agnetyrist?style=for-the-badge&color=ff00ea&labelColor=0d1117&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/Agnetyrist?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=STARS" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=22&duration=2800&pause=900&color=BF80FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=⚡+Full-Stack+Developer+%26+System+Architect;🐧+Linux+Expert+%26+DevOps+Engineer;🎮+Game+Developer+%26+Minecraft+Specialist;🤖+Automation+%26+Performance+Engineer)](https://git.io/typing-svg)
 
-  <br/><br/>
+<br/>
 
-  <br/>
+![](https://img.shields.io/badge/◈_AGE-19-bf80ff?style=for-the-badge&labelColor=0d0d2b&color=7c6bff)
+![](https://img.shields.io/badge/◈_STATUS-Open_to_Work-a855f7?style=for-the-badge&labelColor=0d0d2b&color=22d3ee)
+![](https://img.shields.io/badge/◈_OS-Arch_Linux-bf80ff?style=for-the-badge&labelColor=0d0d2b&color=7c6bff)
+![](https://img.shields.io/badge/◈_COFFEE-Critical_dep-a855f7?style=for-the-badge&labelColor=0d0d2b&color=f472b6)
 
-  <!-- Animated GIF divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=KertynPol&color=7c6bff&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/KertynPol?style=for-the-badge&color=bf80ff&labelColor=0d0d2b&logo=github&label=FOLLOWERS)](https://github.com/KertynPol)
+[![Stars](https://img.shields.io/github/stars/KertynPol?style=for-the-badge&color=7c6bff&labelColor=0d0d2b&logo=github&label=STARS)](https://github.com/KertynPol)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 О себе
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> &nbsp; About Me
 
-```javascript
- 👨‍💻 Кто я?
+<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-18-летний разработчик** с фокусом на создание высокопроизводительных систем
-
-💡 Философия
-Growth-oriented | Detail-driven | Always learning
-
-   🎯 Специализация
-- 🎮 Game Engines & Modding
-- 🐧 Linux System Administration
-- ⛏️ Minecraft Server Management
-- 🤖 Automation & DevOps
-- ⚡ High-Performance Applications
+```yaml
+⚡ KertynPol:
+  age        : 19
+  passion    : Building things that run fast
+               and never break
+  started    : Minecraft server at age 12
+               → Linux clusters at 19
+  philosophy :
+    - Ship fast. Optimize harder.
+    - Performance is a feature.
+    - Automate the boring stuff.
+  currently  :
+    learning  : eBPF · WASM · Distributed Systems
+    building  : [ classified ]
+    drinking  : Coffee #∞
 ```
 
-<div align="left">
-
-### 🎯 Что я делаю:
-- 💻 Разрабатываю высокопроизводительные приложения
-- 🐧 Администрирую Linux серверы и настраиваю инфраструктуру
-- ⛏️ Создаю и оптимизирую Minecraft серверы с кастомными плагинами
-- 🤖 Автоматизирую процессы и создаю ботов
-- 🎮 Разрабатываю игры и модификации
-- 📊 Оптимизирую производительность и масштабируемость систем
-
-</div>
+### 🔮 What I do:
+- 💻 Build **high-performance** full-stack applications
+- 🐧 Architect **Linux infrastructure** from bare metal to cloud
+- ⛏️ Design **Minecraft networks** with custom plugins & anti-cheat
+- 🤖 Create **bots, automations** and CI/CD pipelines
+- 🎮 Develop **games and mods** with Unity, Godot & custom engines
+- ⚡ Profile and **squeeze every bit** of performance out of systems
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Технологический стек
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Languages & Skills
 
 <div align="center">
 
-### 💻 Языки программирования
+### 💻 Programming Languages
 
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
-<br><strong>Python</strong>
-<br>5 лет
-<br>⭐⭐⭐⭐⭐
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-<br><strong>Java</strong>
-<br>4 года
-<br>⭐⭐⭐⭐⭐
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-<br>4 года
-<br>⭐⭐⭐⭐
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
-<br><strong>C++</strong>
-<br>3 года
-<br>⭐⭐⭐⭐
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust" />
-<br><strong>Rust</strong>
-<br>2 года
-<br>⭐⭐⭐⭐
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-<br><strong>C</strong>
-<br>2 года
-<br>⭐⭐⭐
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=cs" width="65" height="65" alt="C#" />
-<br><strong>C#</strong>
-<br>1 год
-<br>⭐⭐⭐
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-<br>2 года
-<br>⭐⭐⭐
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
-<br><strong>Go</strong>
-<br>1 год
-<br>⭐⭐⭐
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=lua" width="65" height="65" alt="Lua" />
-<br><strong>Lua</strong>
-<br>2 года
-<br>⭐⭐⭐⭐
-</td>
-</tr>
-</table>
+| &nbsp; | Language | Experience | Proficiency | Used For |
+|:---:|:---|:---:|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=python" width="22"/> | **Python** | `6+ yrs` | ⬛⬛⬛⬛⬛ 100% | Automation · Bots · ML |
+| <img src="https://skillicons.dev/icons?i=java" width="22"/> | **Java** | `5+ yrs` | ⬛⬛⬛⬛▪ 95% | Minecraft · Backends |
+| <img src="https://skillicons.dev/icons?i=js" width="22"/> | **JavaScript** | `5+ yrs` | ⬛⬛⬛⬛▫ 88% | Node.js · Bots · Web |
+| <img src="https://skillicons.dev/icons?i=cpp" width="22"/> | **C++** | `4+ yrs` | ⬛⬛⬛⬛▫ 82% | Game Engines · Perf |
+| <img src="https://skillicons.dev/icons?i=rust" width="22"/> | **Rust** | `3+ yrs` | ⬛⬛⬛▪▫ 76% | Systems · CLI Tools |
+| <img src="https://skillicons.dev/icons?i=typescript" width="22"/> | **TypeScript** | `3+ yrs` | ⬛⬛⬛▪▫ 75% | APIs · Frontends |
+| <img src="https://skillicons.dev/icons?i=go" width="22"/> | **Go** | `2+ yrs` | ⬛⬛⬛▫▫ 66% | Microservices · CLI |
+| <img src="https://skillicons.dev/icons?i=lua" width="22"/> | **Lua** | `3+ yrs` | ⬛⬛⬛▪▫ 72% | Game Scripting · Mods |
+| <img src="https://skillicons.dev/icons?i=c" width="22"/> | **C** | `3+ yrs` | ⬛⬛⬛▫▫ 64% | Low-level · Embedded |
+| <img src="https://skillicons.dev/icons?i=cs" width="22"/> | **C#** | `2+ yrs` | ⬛⬛▪▫▫ 60% | Unity · .NET |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🐧 Linux & System Administration
+<br/>
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ubuntu" width="65" height="65" alt="Ubuntu" />
-<br><strong>Ubuntu</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=debian" width="65" height="65" alt="Debian" />
-<br><strong>Debian</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=arch" width="65" height="65" alt="Arch" />
-<br><strong>Arch</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
-<br><strong>K8s</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
-<br><strong>Nginx</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
-<br><strong>Bash</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="Vim" />
-<br><strong>Vim</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-<br><strong>Redis</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" alt="Prometheus" />
-<br><strong>Prometheus</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=grafana" width="65" height="65" alt="Grafana" />
-<br><strong>Grafana</strong>
-</td>
-</tr>
-</table>
-
-**🔧 SysAdmin Expertise:**
-- 🐧 Настройка и оптимизация Linux серверов (Ubuntu, Debian, CentOS, Arch)
-- 🐳 Контейнеризация с Docker и оркестрация с Kubernetes
-- 🌐 Конфигурация и tuning веб-серверов (Nginx, Apache)
-- 🔒 Безопасность: iptables, fail2ban, SSH hardening, SSL/TLS
-- 📊 Мониторинг: Prometheus, Grafana, Zabbix, htop
-- ⚡ Автоматизация с Bash/Python скриптами и Ansible
-- 🔄 CI/CD: GitHub Actions, GitLab CI, Jenkins
-- 💾 Backup & Recovery системы
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### ⛏️ Minecraft Server Management
+## 🐧 Linux & DevOps Arsenal
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🎮 MINECRAFT SERVER EXPERT - 3+ Years Experience  ⛏️        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=ubuntu" width="50"/><br/><sub><b>Ubuntu</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=debian" width="50"/><br/><sub><b>Debian</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=arch" width="50"/><br/><sub><b>Arch</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br/><sub><b>Kubernetes</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nginx" width="50"/><br/><sub><b>Nginx</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bash" width="50"/><br/><sub><b>Bash</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=vim" width="50"/><br/><sub><b>Vim</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=redis" width="50"/><br/><sub><b>Redis</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=prometheus" width="50"/><br/><sub><b>Prometheus</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=grafana" width="50"/><br/><sub><b>Grafana</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=ansible" width="50"/><br/><sub><b>Ansible</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=terraform" width="50"/><br/><sub><b>Terraform</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><b>🔧 Full SysAdmin Expertise — click to expand</b></summary>
+<br/>
+
+| Category | Skills |
+|:---|:---|
+| 🐧 **Distros** | Ubuntu · Debian · Arch · CentOS · RHEL |
+| 🐳 **Containers** | Docker · Kubernetes · Helm · Podman |
+| 🌐 **Web / Proxy** | Nginx · Caddy · Apache — reverse proxy & load balancing |
+| 🔒 **Security** | iptables · nftables · fail2ban · WireGuard · SELinux · SSL/TLS |
+| 📊 **Monitoring** | Prometheus · Grafana · Zabbix · ELK Stack |
+| ⚡ **Automation** | Ansible · Terraform · Bash · Python scripting |
+| 🔄 **CI/CD** | GitHub Actions · GitLab CI · Jenkins · ArgoCD |
+| 💾 **Storage** | ZFS · RAID · S3 · Backup & Disaster Recovery |
+| 🌐 **Networking** | BGP · VLAN · DNS · VPN (WireGuard / OpenVPN) |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## ⛏️ Minecraft Server Architect
+
+<div align="center">
+
+![](https://img.shields.io/badge/4%2B_Years-Minecraft_Server_Architecture-7c6bff?style=for-the-badge&labelColor=0d0d2b)
+![](https://img.shields.io/badge/Target-20_TPS_Under_Full_Load-bf80ff?style=for-the-badge&labelColor=0d0d2b)
 
 </div>
 
@@ -226,36 +147,39 @@ Growth-oriented | Detail-driven | Always learning
 <tr>
 <td width="50%">
 
-**🔧 Server Software:**
-- ⚡ Spigot / Paper / Purpur
-- 🔌 Bukkit Plugins Development
-- 🌐 BungeeCord / Velocity Networks
-- 🎯 Fabric / Forge Modding
-- 📦 Sponge API
+#### ⚙️ Server Stack
+- ⚡ **Paper / Purpur / Spigot** — performance-first
+- 🌐 **Velocity / BungeeCord** — multi-server networks
+- 🎯 **Fabric / Forge** — modding & modpacks
+- 🛠️ **Pterodactyl Panel** — server management
+- 📦 **Sponge API** — hybrid setups
 
-**⚙️ Optimization:**
-- 🚀 Performance Tuning
-- 📊 TPS Optimization
-- 💾 Memory Management
-- 🔄 Chunk Loading Optimization
-- ⚡ Async Task Processing
+#### 🚀 Optimization
+- Spark Profiler · async-profiler · Timings v2
+- GC tuning — G1GC / ZGC
+- Chunk loading strategy
+- Entity & tick loop optimization
+- Memory leak elimination
+- Async task processing
 
 </td>
 <td width="50%">
 
-**🛡️ Security & Management:**
-- 🔒 DDoS Protection & Firewall
-- 🛡️ Anti-Cheat Configuration
-- 👥 Permission Systems (LuckPerms)
-- 🗄️ Database Management (MySQL/SQLite)
-- 📈 Server Monitoring & Analytics
+#### 🛡️ Security & Infrastructure
+- L4/L7 **DDoS Protection** & firewall rules
+- Custom **Anti-Cheat** detectors
+- **LuckPerms** + custom permission layers
+- MySQL / MariaDB / Redis / SQLite
+- Server watchdog & crash recovery
+- Real-time analytics dashboards
 
-**🎨 Custom Development:**
-- ☕ Java Plugin Development
-- 🔌 API Integration
-- 🎮 Custom Game Modes
-- 🌍 World Management
-- 💬 Chat Systems & Discord Bridge
+#### 🎨 Custom Plugin Development
+- Java Bukkit / Paper API from scratch
+- Discord / Telegram bridge & webhooks
+- Custom game modes — BedWars, SkyWars, RPG
+- Economy, ranking & anti-abuse systems
+- World generation & custom biomes
+- Staff tools & moderation plugins
 
 </td>
 </tr>
@@ -263,65 +187,32 @@ Growth-oriented | Detail-driven | Always learning
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🎮 Game Development & Tools
+<br/>
+
+## 🎮 Game Dev & Tools
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity" />
-<br><strong>Unity</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=godot" width="65" height="65" alt="Godot" />
-<br><strong>Godot</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=unreal" width="65" height="65" alt="Unreal" />
-<br><strong>Unreal</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender" />
-<br><strong>Blender</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=unity" width="55"/><br/><sub><b>Unity</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=godot" width="55"/><br/><sub><b>Godot</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=unreal" width="55"/><br/><sub><b>Unreal</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=blender" width="55"/><br/><sub><b>Blender</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=opengl" width="55"/><br/><sub><b>OpenGL</b></sub></td>
 </tr>
 </table>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & IDEs
 
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
-<br><strong>SQLite</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" />
-<br><strong>IntelliJ</strong>
-</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="55"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br/><sub><b>SQLite</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=idea" width="55"/><br/><sub><b>IntelliJ</b></sub></td>
 </tr>
 </table>
 
@@ -329,66 +220,76 @@ Growth-oriented | Detail-driven | Always learning
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🔥 Проекты & Интересы
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 🎯 Область | 📝 Описание |
-|:-----------|:------------|
-| 🎮 **Game Development** | 3D движки, Unity прототипы, Minecraft моды и плагины |
-| 🤖 **Automation & Bots** | Discord/Telegram боты, скрипты автоматизации, utility фреймворки |
-| ⚡ **Performance** | Оптимизация кода, профилирование, интеграция AI/ML |
-| 🐧 **DevOps & SysAdmin** | Настройка серверов, CI/CD пайплайны, мониторинг инфраструктуры |
-| 🔧 **Server Management** | Администрирование игровых серверов, балансировка нагрузки |
-| 📚 **Open Source** | Вклад в open-source проекты, создание библиотек |
+<img src="https://github-readme-stats.vercel.app/api?username=KertynPol&show_icons=true&hide_border=true&bg_color=0d0d2b&title_color=bf80ff&icon_color=7c6bff&text_color=c9d1d9&ring_color=7c6bff" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KertynPol&layout=compact&hide_border=true&bg_color=0d0d2b&title_color=bf80ff&text_color=c9d1d9" height="170"/>
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KertynPol&hide_border=true&background=0d0d2b&ring=7c6bff&fire=bf80ff&currStreakLabel=bf80ff&sideNums=c9d1d9&sideLabels=7c6bff&dates=666688)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KertynPol&theme=react-dark&hide_border=true&area=true&bg_color=0d0d2b&color=bf80ff&line=7c6bff&point=ffffff)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub статистика
+<br/>
+
+## ⚡ Fun Facts
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agnetyrist&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF00EA&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnetyrist&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Agnetyrist&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=FF00EA&currStreakLabel=00D4FF)
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Agnetyrist&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=FF00EA&point=FFFFFF)
+| | |
+|:---:|:---|
+| 🖥️ | Поднял первый Linux сервер в **12 лет** — с тех пор не останавливался |
+| ☕ | Написал первый Minecraft плагин **до первого экзамена** по информатике |
+| 🌙 | Дебажил production в **3 ночи** и находил баг в **3:47** — это не хобби, это образ жизни |
+| ⌨️ | Vim пользователь. Да, **этот** тип. |
+| 🔥 | Если код работает — оптимизирую. Если не работает — **тоже** оптимизирую |
+| 🤖 | Верю: хороший DevOps **невидим** — всё просто работает |
 
 </div>
 
----
+<br/>
 
-
-
----
-
-## 💼 Открыт для сотрудничества
+## 💼 Open for Collaboration
 
 <div align="center">
 
-🔹 Разработка игровых серверов и плагинов  
-🔹 Администрирование Linux серверов  
-🔹 Автоматизация и DevOps  
-🔹 Создание Discord/Telegram ботов  
-🔹 Оптимизация производительности  
-🔹 Консультации по архитектуре проектов  
+![](https://img.shields.io/badge/🎮_Game_Server_Dev-&_Plugin_Creation-7c6bff?style=for-the-badge&labelColor=0d0d2b)
+![](https://img.shields.io/badge/🐧_Linux_Server-Setup_&_Admin-7c6bff?style=for-the-badge&labelColor=0d0d2b)
+![](https://img.shields.io/badge/🤖_Automation-&_DevOps-7c6bff?style=for-the-badge&labelColor=0d0d2b)
+![](https://img.shields.io/badge/💬_Discord_/_Telegram-Bots-bf80ff?style=for-the-badge&labelColor=0d0d2b)
+![](https://img.shields.io/badge/⚡_Performance-Optimization-bf80ff?style=for-the-badge&labelColor=0d0d2b)
+![](https://img.shields.io/badge/🔷_Architecture-Consulting-7c6bff?style=for-the-badge&labelColor=0d0d2b)
 
-**💬 Готов обсудить интересные проекты!**
+<br/><br/>
+
+**💬 Есть интересный проект? Пиши — обсудим!**
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-  ### ⭐ Если вам нравятся мои проекты - поставьте звезду!
-  
-  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+### ⭐ If you like what you see — drop a star!
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,40:1a0533,70:2d1b69,100:0d0d2b&height=120&section=footer)
 
 </div>
